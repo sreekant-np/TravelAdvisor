@@ -22,7 +22,7 @@ const List = ({ places, type, setType, rating, setRating, childClicked, isLoadin
       ) : (
         <>
           <FormControl className={classes.formControl}>
-            <InputLabel id="type">Type</InputLabel>
+            <InputLabel id="type">Type Name</InputLabel>
             <Select id="type" value={type} onChange={(e) => setType(e.target.value)}>
               <MenuItem value="restaurants">Restaurants</MenuItem>
               <MenuItem value="hotels">Hotels</MenuItem>
