@@ -4,5 +4,5 @@
 <h3>To use this app just use the below command</h3><br>
 <code>npm install && npm start</code>
 <h3>Preview of this web app can be found at following this link</h3><br>
-<a href="https://616f40c19d133d0cf9080083--nptravel-advisor.netlify.app/">Travel Advsior Netlify</a>
+<a href="https://616f40c19d133d0cf9080083--nptravel-advisor.netlify.app/" target="_blank">Travel Advsior Netlify</a>
 
